@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Java, Spring Boot**
 
-- 🌱 I currently completed learning **Terraform** and here is what I made with it - https://github.com/TheGaneshkumawat/ganesh-online-profile
+- 🌱 I have completed learning **Terraform** and here is what I made with it - https://github.com/TheGaneshkumawat/ganesh-online-profile
 
 - 💬 Ask me about **java, spring, K8s**
 
